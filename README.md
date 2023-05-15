@@ -17,6 +17,18 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 - [Installation](#installation)
   * [Dependencies and Environment Setup](#run-locally-in-jupyter-notebook)
 
+## Business Problem
+As the lead developer of a social media company's API project, I have identified that our current technology stack for API development lacks performance, productivity, and scalability. The existing framework is causing maintenance challenges, hindering feature development, and limiting our ability to meet growing customer demands effectively.
+
+### Objective
+As the lead developer, my objective is to assess the viability of the FastAPI framework for our API project. Through a phased migration approach, I aim to evaluate FastAPI's benefits and capabilities in addressing the limitations of our current technology stack, improving performance, enhancing developer productivity, and enabling future scalability.
+
+### Goal
+My primary goal as the lead developer is to assess the viability of the FastAPI framework for our API project and ensure its successful adoption. The specific goals include:
+- Viability Assessment: Through phased migration, I will test and evaluate FastAPI's performance, productivity enhancements, and scalability to determine if it meets our requirements and aligns with our long-term goals.
+- Seamless Integration: I aim to build an API using FastAPI that seamlessly incorporates the existing CRUD (Create, Read, Update, Delete) methods already being used in our current social media application. This includes ensuring that the data models, endpoints, and functionality are maintained and accessible through the FastAPI-based API.
+- Knowledge Transfer and Training: I will share my expertise and provide training to the development team on FastAPI's concepts, best practices, and features to ensure a smooth transition and facilitate the adoption of the new framework while maintaining and enhancing the existing CRUD functionality.
+
 ## Methods
 - HTTP methods that are commonly used in RESTful APIs (GET, POST, PUT, PATCH and DELETE) including those built with FastAPI, to perform various CRUD (Create, Read, Update, Delete) operations and interact with resources on the server.
 
@@ -30,7 +42,7 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 
 ## Technical Overview
 
-This section provides a technical overview of our full-fledged Python API built using the FastAPI framework.
+This section provides a technical overview of my full-fledged Python API built using the FastAPI framework.
 
 ### API Repository Structure
 ```
