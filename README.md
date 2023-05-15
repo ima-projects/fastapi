@@ -27,6 +27,7 @@ As the lead developer, my objective is to assess the viability of the FastAPI fr
 My primary goal as the lead developer is to assess the viability of the FastAPI framework for our API project and ensure its successful adoption. The specific goals include:
 - Viability Assessment: Through phased migration, I will test and evaluate FastAPI's performance, productivity enhancements, and scalability to determine if it meets our requirements and aligns with our long-term goals.
 - Seamless Integration: I aim to build an API using FastAPI that seamlessly incorporates the existing CRUD (Create, Read, Update, Delete) methods already being used in our current social media application. This includes ensuring that the data models, endpoints, and functionality are maintained and accessible through the FastAPI-based API.
+- Risk Mitigation: As the lead developer, I will carefully plan and execute each phase of the migration to minimize disruption, ensure backward compatibility, and identify and mitigate any potential risks or challenges that may arise during the process, particularly related to the successful integration of CRUD methods. This will be done using a risk assessment.
 - Knowledge Transfer and Training: I will share my expertise and provide training to the development team on FastAPI's concepts, best practices, and features to ensure a smooth transition and facilitate the adoption of the new framework while maintaining and enhancing the existing CRUD functionality.
 
 ## Methods
