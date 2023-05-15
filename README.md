@@ -21,3 +21,18 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 - Python: I have developed this API using Python programming language.
 - FastAPI: The API is built on top of the FastAPI framework, which provides a high-performance, easy-to-use, modern web development framework for building RESTful APIs in Python.
 - PostgresSQL: An open-source object-relational database system. 
+
+'''
+├── app
+│   ├── main.py
+│   ├── routes.py
+│   └── utils.py
+├── config
+│   ├── config.ini
+│   └── secrets.py
+├── tests
+│   ├── test_main.py
+│   ├── test_routes.py
+│   └── test_utils.py
+└── README.md
+'''
