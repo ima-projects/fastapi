@@ -21,10 +21,12 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 - HTTP methods that are commonly used in RESTful APIs (GET, POST, PUT, PATCH and DELETE) including those built with FastAPI, to perform various CRUD (Create, Read, Update, Delete) operations and interact with resources on the server.
 
 ## Tech Stack
-- Python: I have developed this API using Python programming language.
-- FastAPI: The API is built on top of the FastAPI framework, which provides a high-performance, easy-to-use, modern web development framework for building RESTful APIs in Python.
-- PostgresSQL: An open-source object-relational database system for data persistence.
 
+| Tech      | Description |
+| ----------- | ----------- |
+| Programming Language | Python: the API is developed using Python programming language. |
+| Framework   | FastAPI: the API is built on top of the FastAPI framework, which provides a high-performance, easy-to-use, modern web development framework for building RESTful APIs in Python.  |
+| Database Server | PostgresSQL Server: An open-source object-relational database system for data persistence. |
 
 ## Technical Overview
 
