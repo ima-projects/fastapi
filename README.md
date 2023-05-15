@@ -18,7 +18,7 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
   * [Dependencies and Environment Setup](#run-locally-in-jupyter-notebook)
 
 ## Business Problem
-As the lead developer of a social media company's API project, I have identified that our current technology stack for API development lacks performance, productivity, and scalability. The existing framework is causing maintenance challenges, hindering feature development, and limiting our ability to meet growing customer demands effectively.
+As the lead developer of a social media company's API project, I have identified that our current technology stack for API development lacks performance, productivity, and scalability. The existing framework is causing maintenance challenges, hindering feature development, and limiting our ability to meet growing user demands effectively.
 
 ### Objective
 As the lead developer, my objective is to assess the viability of the FastAPI framework for our API project. Through a phased migration approach, I aim to evaluate FastAPI's benefits and capabilities in addressing the limitations of our current technology stack, improving performance, enhancing developer productivity, and enabling future scalability.
