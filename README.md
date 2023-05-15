@@ -24,6 +24,7 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 
 ```
 .
+├── .vscode
 ├── alembic
 ├── app
 │   ├── routes.py
@@ -31,14 +32,15 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 │       ├── post.py
 │       ├── user.py
 │       └── vote.py
+│   ├── __init__.py
+│   ├── config.py
+│   ├── database.py
 │   ├── main.py
+│   ├── oauth2.py
+│   ├── schemas.py
 │   └── utils.py
-├── config
-│   ├── config.ini
-│   └── secrets.py
-├── tests
-│   ├── test_main.py
-│   ├── test_routes.py
-│   └── test_utils.py
-└── README.md
+├── .gitignore
+├── README.md
+├── alembic.ini
+└── requirements.txt
 ```
