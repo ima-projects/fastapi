@@ -1,5 +1,6 @@
 # Full-fledged Python API built with FastAPI
 
+Developed a comprehensive Python API utilizing the FastAPI framework. The application implements essential API design principles, such as route configuration, serialization/deserialization techniques, schema validation, and model utilization. The additional integration of SQL databases using Postgres, implementing thorough testing methodologies using pytest, and constructing a seamless CI/CD pipeline with GitHub actions allowed me to build a robust and scalable API while streamlining the development lifecycle for maximum productivity and reliability.
 
 ## Table of Contents
 - [Business Problem](#business-problem)
