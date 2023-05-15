@@ -23,9 +23,15 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 - PostgresSQL: An open-source object-relational database system. 
 
 ```
+.
+├── alembic
 ├── app
-│   ├── main.py
 │   ├── routes.py
+│       ├── auth.py
+│       ├── post.py
+│       ├── user.py
+│       └── vote.py
+│   ├── main.py
 │   └── utils.py
 ├── config
 │   ├── config.ini
