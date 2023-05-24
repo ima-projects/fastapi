@@ -13,7 +13,7 @@ from app import models
 from app.database import Base
 #from alembic import command
 
-# fixture function = change in behaviour so model (SQLAchemy model)
+# fixture function = change in behaviour so model (SQLAchemy model) or if no model then the fixture is defining the state/behaviour of something before being executed within a test case
 # test function = contract/data validation (Pydantic schema)
 
 # SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:mydbpassword@localhost:5432/fastapi_test'
