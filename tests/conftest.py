@@ -13,6 +13,9 @@ from app import models
 from app.database import Base
 #from alembic import command
 
+# fixture function = change in behaviour so model (SQLAchemy model)
+# test function = contract/data validation (Pydantic schema)
+
 # SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:mydbpassword@localhost:5432/fastapi_test'
 
 SQLALCHEMY_DATABASE_URL = f"postgresql://{settings.database_username}:{settings.database_password}@{settings.database_hostname}:{settings.database_port}/{settings.database_name}_test"
