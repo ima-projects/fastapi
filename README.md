@@ -11,7 +11,7 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 - [Technical Overview](#technical-overview)
   * [API Repository Structure](#api-repository-structure)
   * [Key Features and Functionality](#key-features-and-functionality)
-- [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-ci-cd)
+- [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-(CI\/CD))
 - [Quick Look of Project in Action](#quick-look-of-project-in-action)
   * [Key Findings](#key-findings)
 - [Limitations and Suggestions](#limitations-and-suggestions)
