@@ -11,6 +11,7 @@ Developed a comprehensive Python API utilizing the FastAPI framework. The applic
 - [Technical Overview](#technical-overview)
   * [API Repository Structure](#api-repository-structure)
   * [Key Features and Functionality](#key-features-and-functionality)
+- [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-ci-cd)
 - [Quick Look of Project in Action](#quick-look-of-project-in-action)
   * [Key Findings](#key-findings)
 - [Limitations and Suggestions](#limitations-and-suggestions)
@@ -79,7 +80,11 @@ This section provides a technical overview of my full-fledged Python API built u
   * Included is comprehensive documentation and thorough testing for the success of the API. The API documentation is automatically generated using tools like Swagger UI or ReDoc, providing clear and interactive documentation for API consumers. I followed best practices for unit testing, integration testing, and test coverage to ensure the reliability and stability of our API.
 - Deployment and Scalability
   * [add here]
-- Continuous Integration and Deployment (CI/CD)
+ 
+ ## Continuous Integration and Deployment (CI/CD)
+- Continuous Integration 
+  * Automated tests using Github Actions
+- Deployment 
   * 
 
 ## Limitations and Suggestions
